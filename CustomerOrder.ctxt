@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CustomerOrder
+comment1.params=
+comment1.target=CustomerOrder()
+comment2.params=itemCode\ itemQuantity
+comment2.target=CustomerOrder(int,\ int)
+comment3.params=
+comment3.target=double\ processOrder()
+numComments=4

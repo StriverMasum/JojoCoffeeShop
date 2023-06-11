@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MAINCLASS
+comment1.params=
+comment1.target=void\ welcomeGreet()
+comment2.params=
+comment2.target=void\ pause()
+comment3.params=sec
+comment3.target=void\ sleep(int)
+comment4.params=i\ j
+comment4.target=int\ getIntInRange(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
